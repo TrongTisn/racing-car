@@ -1,0 +1,41 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+#drawing {
+    display: block;
+    width: 100vw; 
+    height: 50%;
+    padding: 0;
+    margin: 0;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+}
+
+div.container {
+    padding: 0;
+    margin: 0;
+}
+
+div.col-12 {
+    padding: 0;
+    margin: 0;
+}
+
+h3#banner   {
+    text-align: center;
+    font-size: 3vw;
+}
+
+#refresh-button {
+    margin-top: 10px;
+}
+
+form {
+    text-align: center;
+}
+
+#rule-heading {
+    text-align: center;
+}
